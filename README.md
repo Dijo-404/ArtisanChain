@@ -53,20 +53,6 @@ Visit the live application: [https://artisan-chain-silk.vercel.app/](https://art
 - **ChatBot** - AI assistant for customer support
 - **Footer** - Links and social media integration
 
-## 🎨 Design System
-
-### Colors
-- **Primary**: Purple (#8B5CF6) - Main brand color
-- **Secondary**: Blue (#3B82F6) - Accent and links
-- **Success**: Green (#10B981) - Verification and success states
-- **Warning**: Yellow (#F59E0B) - Alerts and highlights
-- **Error**: Red (#EF4444) - Error states
-
-### Typography
-- **Headings**: Bold, clear hierarchy
-- **Body**: Readable with proper line spacing
-- **Interactive**: Hover states and transitions
-
 ## 🔧 Development
 
 ### Prerequisites
