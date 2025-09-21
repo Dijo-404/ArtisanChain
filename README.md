@@ -26,7 +26,7 @@ A modern, responsive web application that empowers local artisans through AI and
 
 ## 🚀 Live Demo
 
-Visit the live application: [https://ai-blockchain-artisa-c1nf.bolt.host](https://ai-blockchain-artisa-c1nf.bolt.host)
+Visit the live application: [https://artisan-chain-silk.vercel.app/](https://artisan-chain-silk.vercel.app/)
 
 ## 🛠 Technology Stack
 
@@ -132,7 +132,7 @@ The application uses comprehensive mock data including:
 
 ## 🚀 Deployment
 
-The application is deployed on Bolt Hosting with automatic builds and deployments.
+The application is deployed on Vercel Hosting with automatic builds and deployments.
 
 ### Build Process
 ```bash
@@ -141,18 +141,3 @@ npm run build
 
 The build creates optimized static files in the `dist` directory.
 
-## 🤝 Contributing
-
-This is a prototype application demonstrating modern web development practices for an artisan marketplace platform.
-
-## 📄 License
-
-This project is for demonstration purposes.
-
-## 📞 Contact
-
-For questions about this prototype, please reach out through the platform's contact channels.
-
----
-
-**Built with ❤️ for the global artisan community**
